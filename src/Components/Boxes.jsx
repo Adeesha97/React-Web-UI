@@ -4,7 +4,7 @@ const Boxes = () => {
   return (
     <section className="p-5">
       <div className="container">
-        <div className="row">
+        <div className="row text-center g-4">
           <div className="col-md">
             <div className="card bg-dark text-light">
               <div className="card-body text-center">
@@ -41,7 +41,7 @@ const Boxes = () => {
           </div>
           <div className="col-md">
             <div className="card bg-dark text-light">
-              <div className="card-body text-center">
+              <div className="card-body text-center ">
                 <div className="h1 mb-3">
                   <i className="bi bi-people"></i>
                 </div>
