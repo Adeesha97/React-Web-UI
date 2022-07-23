@@ -1,3 +1,10 @@
+# Screens 
+
+![main-ui](https://user-images.githubusercontent.com/53090621/180591032-ff730709-31fd-4e90-94dc-2893b85b2d23.png)
+![ui-2](https://user-images.githubusercontent.com/53090621/180591033-22c87df7-1209-4928-8871-1d15b98a5f52.png)
+![ui-3](https://user-images.githubusercontent.com/53090621/180591034-948a2148-a617-44fa-b742-464ec19c7c51.png)
+![ui-4](https://user-images.githubusercontent.com/53090621/180591035-d11ed0b6-4160-4d42-8da0-28f1de683771.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,9 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![main-ui](https://user-images.githubusercontent.com/53090621/180591032-ff730709-31fd-4e90-94dc-2893b85b2d23.png)
-![ui-2](https://user-images.githubusercontent.com/53090621/180591033-22c87df7-1209-4928-8871-1d15b98a5f52.png)
-![ui-3](https://user-images.githubusercontent.com/53090621/180591034-948a2148-a617-44fa-b742-464ec19c7c51.png)
-![ui-4](https://user-images.githubusercontent.com/53090621/180591035-d11ed0b6-4160-4d42-8da0-28f1de683771.png)
 
 
